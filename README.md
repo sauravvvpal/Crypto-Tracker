@@ -41,7 +41,7 @@ Crypto labs is a simple react app for track a coin with some feature like search
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@MiladSadeghi](https://github.com/MiladSadeghi) - Idea & Initial work
+- [@Saurav_Pal](https://github.com/sauravvvpal) - Idea & Initial work
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
